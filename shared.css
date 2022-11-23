@@ -158,6 +158,7 @@ nav {
   background: var(--clr-white);
   padding: 1rem 1.5rem;
 }
+
 /* fixed nav */
 .fixed-nav {
   position: fixed;
@@ -212,6 +213,8 @@ nav {
     align-items: center;
     justify-content: space-between;
     background-color: white;
+    position: fixed;
+    top: 1rem;
   }
   .nav-header {
     padding: 0;
